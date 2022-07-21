@@ -1,2 +1,2 @@
 # IMAGE-FILTER
-Image filter web app  using opencv-python  and streamlit library 
+Image filter web app  using OpenCV-python  and Streamlit library 
