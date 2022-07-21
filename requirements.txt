@@ -1,0 +1,5 @@
+Open-CV
+Streamlit
+Numpy
+PIL
+pyngrok
